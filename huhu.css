@@ -318,3 +318,6 @@
 .animated {
   animation-fill-mode: both;
 }
+.small{
+  font-size: 1rem;
+}
